@@ -31,7 +31,7 @@ If you choose to save results, a `.txt` file will be created with a summary of a
 
 ## Requirements
 
-- C++ compiler (clang++ or g++)
+- C++ compiler 
 - macOS or Linux recommended
 
 ## Notes
